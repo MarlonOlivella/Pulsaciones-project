@@ -1,0 +1,22 @@
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\bin\Debug\netstandard2.0\Entity.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\bin\Debug\netstandard2.0\Entity.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\DAL\obj\Debug\netstandard2.0\DAL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\DAL\obj\Debug\netstandard2.0\DAL.pdb

@@ -1,0 +1,26 @@
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\bin\Debug\netstandard2.0\BLL.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\bin\Debug\netstandard2.0\BLL.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\bin\Debug\netstandard2.0\DAL.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\bin\Debug\netstandard2.0\Entity.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\bin\Debug\netstandard2.0\Entity.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\BLL\obj\Debug\netstandard2.0\BLL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\bin\Debug\netstandard2.0\BLL.deps.json
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\bin\Debug\netstandard2.0\BLL.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\bin\Debug\netstandard2.0\BLL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\obj\Debug\netstandard2.0\BLL.csprojAssemblyReference.cache
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\obj\Debug\netstandard2.0\BLL.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\obj\Debug\netstandard2.0\BLL.csproj.CopyComplete
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\obj\Debug\netstandard2.0\BLL.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\BLL\obj\Debug\netstandard2.0\BLL.pdb

@@ -1,0 +1,16 @@
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\bin\Debug\netstandard2.0\Entity.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\bin\Debug\netstandard2.0\Entity.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\obj\Debug\netstandard2.0\Entity.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Entity\obj\Debug\netstandard2.0\Entity.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\obj\Debug\netstandard2.0\Entity.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Entity\obj\Debug\netstandard2.0\Entity.pdb

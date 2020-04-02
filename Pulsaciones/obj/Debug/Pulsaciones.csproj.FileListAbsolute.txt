@@ -1,0 +1,26 @@
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe.config
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.exe
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\Pulsaciones.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csprojAssemblyReference.cache
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.exe
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\BLL.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\Entity.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\DAL.dll
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\BLL.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\Entity.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\bin\Debug\DAL.pdb
+D:\Documentos\MATERIAL UPC\MATERIAS POR PERIODO\MATERIAS 4to SEMESTRE\PROGRAMACION 3\Pulsaciones\Pulsaciones\obj\Debug\Pulsaciones.csproj.CopyComplete
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\Pulsaciones.exe.config
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\Pulsaciones.exe
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\Pulsaciones.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\BLL.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\Entity.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\DAL.dll
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\BLL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\Entity.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\bin\Debug\DAL.pdb
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\obj\Debug\Pulsaciones.csprojAssemblyReference.cache
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\obj\Debug\Pulsaciones.csproj.CopyComplete
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\obj\Debug\Pulsaciones.exe
+C:\Users\marlo\OneDrive\Escritorio\Universidad Popular del Cesar\Programacion 3\Pulsaciones-project\Pulsaciones\obj\Debug\Pulsaciones.pdb
